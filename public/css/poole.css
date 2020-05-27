@@ -251,11 +251,11 @@ th {
   /*border: 1px solid #e5e5e5; */
   text-align: left;
   vertical-align: top;
-  /* color: #FFFFFF; */
+  color: #404480; 
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: #989898; /*#f9f9f9*/
+  background-color: #fcba03; /*#f9f9f9 #989898*/
 }
 
 
