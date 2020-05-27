@@ -14,6 +14,8 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
   <tr>
 	<th></th>
 	<th></th>
+	<th></th>
+	<th></th>
   </tr>
 
   <tr>
