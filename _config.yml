@@ -10,7 +10,7 @@ permalink:        pretty
 title:            Portfolio
 tagline:          'Portfolio - Henry Glick'
 description:      'Henry Glick'
-url:              https://github.com/hglick/hglick.github.io       
+site_url:              https://github.com/hglick/hglick.github.io/   
 # old URL: http://hyde.getpoole.com
 baseurl:          /
 
