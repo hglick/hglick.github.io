@@ -40,7 +40,7 @@ Landscape Restoration Opportunities. Original internal white paper was Glick et 
   </tr>
 
   <tr>
-  <td style="width:20%"><a href="https://theconversation.com/how-we-found-out-there-are-three-trillion-trees-on-earth-47071"><img src="_images/Small/The_Conversation_Cover_Page_Small.png" align="right"></a></td>
+  <td style="width:20%"><a href="https://theconversation.com/how-we-found-out-there-are-three-trillion-trees-on-earth-47071"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/The_Conversation_Cover_Page_Small.png" align="right"></a></td>
 	<td style="width:30%"> A popular press piece on how we estimated tree density globally. (2015)</td>
 	<td style="width:20%"><a href="https://issuu.com/uhpsi/docs/swat_report_for_issuu"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Clear_Creek_Hydrology_Small.png" align="right"></a></td>
 	<td style="width:30%">Collaborative analysis of the Clear Creek watershed in Wyoming, based on the Soil and Water Assessment Tool. (2015)</td>
