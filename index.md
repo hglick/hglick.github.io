@@ -19,7 +19,7 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
   </tr>
 
   <tr>
-    <td style="width:20%"><a href=esri_map_book_education><img src="https://github.com/hglick/hglick.github.io/blob/master/_images/Small/Esri_Map_Book_Vol_31_Cover_Small.png?raw=true" align="right"></a></td>
+    <td style="width:20% color:#0000ff"><a href=esri_map_book_education><img src="https://github.com/hglick/hglick.github.io/blob/master/_images/Small/Esri_Map_Book_Vol_31_Cover_Small.png?raw=true" align="right"></a></td>
 	<td style="width:30%"> A spatial statistical analysis capturing a GIS educator's sphere of influence. Published in volume 31 of the Esri Map Book. (2016)</td>
 	
     <td style="width:20%"><a href="https://science.sciencemag.org/content/354/6309/aaf8957.full.pdf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Liang_Science_Graph_90dpi.png" align="right"></a></td>
