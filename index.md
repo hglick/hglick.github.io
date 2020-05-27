@@ -27,7 +27,7 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
   </tr>
 
   <tr>
-    <td style="width:20%"><a href="https://www.ingentaconnect.com/content/asprs/pers/2016/00000082/00000010/art00016#"><img src="_images/Small/Accuracy_Assessment.png" align="right"></a></td>
+    <td style="width:20%"><a href="https://www.ingentaconnect.com/content/asprs/pers/2016/00000082/00000010/art00016#"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/blob/master/_images/Small/Accuracy_Assessment.png" align="right"></a></td>
     <td style="width:30%">Simulation-based evaluation of the effects of horizontal positional error on map classification accuracy statistics. Published in <i>Photogrammetric Engineering & Remote Sensing</i>. (2016)</td> 
     <td style="width:20%"><a href="https://www.biorxiv.org/content/10.1101/210062v2.full.pdf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/WWF_Paper_Cover_Small.png" align="right"></a></td>
 	<td style="width:30%">Project in partnership with WWF to evaluate potential reforestation based on IUCN/WRI’s Atlas of Forest
