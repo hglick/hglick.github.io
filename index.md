@@ -12,10 +12,10 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
 
 <table style="width:100%">
   <tr>
-	<th></th>
-	<th></th>
-	<th></th>
-	<th></th>
+	<th style="width:20%"></th>
+	<th style="width:30%"></th>
+	<th style="width:20%"></th>
+	<th style="width:30%"></th>
   </tr>
 
   <tr>
