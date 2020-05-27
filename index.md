@@ -20,20 +20,20 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
     <td style="width:20%"><a href=esri_map_book_education><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Nature_Cover_Small.png?token=AKG3QI3XHQDC4MQLHE5FVYC62635O" align="right"></a></td>
 	<td style="width:30%"> A spatial statistical analysis capturing a GIS educator's sphere of influence. Published in volume 31 of the Esri Map Book. (2016)</td>
 	
-    <td style="width:20%"><a href="https://science.sciencemag.org/content/354/6309/aaf8957.full.pdf"><img src="https://github.com/hglick/hglick.github.io/blob/master/_images/Small/Liang_Science_Graph_90dpi.png" align="right"></a></td>
+    <td style="width:20%"><a href="https://science.sciencemag.org/content/354/6309/aaf8957.full.pdf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Liang_Science_Graph_90dpi.png" align="right"></a></td>
 	<td style="width:30%">Global-scale analysis of forest biodiversity and its relationship with annual productivity. Served as HPC specialist for Global Forest Biodiversity Initiative. Parallel computing on millions of records from >70 countries with custom HPC (AWS EC2 + RStudio Server) (2016)</td>
   </tr>
 
   <tr>
     <td style="width:20%"><a href="https://www.ingentaconnect.com/content/asprs/pers/2016/00000082/00000010/art00016#"><img src="_images/Small/Accuracy_Assessment.png" align="right"></a></td>
     <td style="width:30%">Simulation-based evaluation of the effects of horizontal positional error on map classification accuracy statistics. Published in <i>Photogrammetric Engineering & Remote Sensing</i>. (2016)</td> 
-    <td style="width:20%"><a href="https://www.biorxiv.org/content/10.1101/210062v2.full.pdf"><img src="_images/Small/WWF_Paper_Cover_Small.png" align="right"></a></td>
+    <td style="width:20%"><a href="https://www.biorxiv.org/content/10.1101/210062v2.full.pdf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/WWF_Paper_Cover_Small.png" align="right"></a></td>
 	<td style="width:30%">Project in partnership with WWF to evaluate potential reforestation based on IUCN/WRI’s Atlas of Forest
 Landscape Restoration Opportunities. Original internal white paper was Glick et al. 2016, Projecting Global Reforestation Potential. (2017)  </td>
   </tr>    
 
   <tr>
-    <td style="width:20%"><a href="nature_article"><img src="https://github.com/hglick/hglick.github.io/blob/master/_images/Small/Nature_Cover_Small.png" align="right"></a></td>
+    <td style="width:20%"><a href="nature_article"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Nature_Cover_Small.png" align="right"></a></td>
     <td style="width:30%">Global-scale analysis of tree density. 429,775 field plots, 14,000+ statistical models, 60+ international collaborators</td>
 	<td style="width:20%"><a href="esri_map_book_demographics"><img src="_images/Small/Esri_Map_Book_Vol_30_Cover_Small.png" align="right"></a></td>
 	<td style="width:30%"> Cartographic representations of regression modeling results, published in volume 30 of Esri's Map Book. (2015)</td>
