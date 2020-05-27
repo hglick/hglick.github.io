@@ -241,8 +241,8 @@ table {
   width: 100%;
   /*border: 1px solid #e5e5e5;*/
   border-collapse: collapse;
-  background: #FFFFFF; /*hbg #989898*/
-  font-size: 24px;
+  background: #989898
+  font-size: 16px;
   /* color: #008066; */
 }
 td,
