@@ -106,7 +106,7 @@ Landscape Restoration Opportunities. Original internal white paper was Glick et 
 	
 
 
-[//]:<td style="width:20%"><img src="_images/MTMF_Plot.PNG" alt="Italian Trulli"  align="right"></td>
+[//]:<td style="width:20%"><img src="_images/MTMF_Plot.png" alt="Italian Trulli"  align="right"></td>
 [//]:    <td style="width:30%">Global-scale analysis of tree density.</td>
 
 [//]: #<p class="message">
