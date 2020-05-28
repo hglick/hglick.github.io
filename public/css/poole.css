@@ -59,8 +59,8 @@ html {
 }
 
 body {
-  color: #cc3f0c /* #515151 */
-  background-color: #cc3f0c; /* #fff */
+  color: #303030; /*#515151 color of text on main page*/
+  background-color: #989898; /*color of the main page background*/
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -230,7 +230,7 @@ blockquote p:last-child {
 img {
   display: block;
   max-width: 100%;
-  margin: 0 0 1rem;
+  margin: 0 0 0rem; /* Using 0 0 1rem provided bottom border */
   border-radius: 5px;
 }
 
@@ -241,7 +241,7 @@ table {
   width: 100%;
   /*border: 1px solid #e5e5e5;*/
   border-collapse: collapse;
-  background: #989898
+  background: #989898;
   font-size: 16px;
   /* color: #008066; */
 }
@@ -251,11 +251,11 @@ th {
   /*border: 1px solid #e5e5e5; */
   text-align: left;
   vertical-align: top;
-  color: #404480; 
+  color: #989898; 
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: #fcba03; /*#f9f9f9 #989898*/
+  background-color: #989898; /*#f9f9f9 #989898*/
 }
 
 
