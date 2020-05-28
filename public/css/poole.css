@@ -59,8 +59,8 @@ html {
 }
 
 body {
-  color: #515151
-  background-color: #989898; /* #fff */
+  color: #cc3f0c /* #515151 */
+  background-color: #cc3f0c; /* #fff */
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
