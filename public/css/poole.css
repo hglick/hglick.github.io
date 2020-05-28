@@ -232,6 +232,7 @@ img {
   max-width: 100%;
   margin: 0 0 0rem; /* Using 0 0 1rem provided bottom border */
   border-radius: 5px;
+  text-align: right; /* hbg: I think this is how we can get the image to be on the right, which I had previously dont within the table in the index.md file, but apparently that method is deprecated. */
 }
 
 /* Tables */
