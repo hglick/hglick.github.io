@@ -22,12 +22,18 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
 
 
 
+  <tr>
+	<td style="width:20%"><a href="https://aquila.usm.edu/cgi/viewcontent.cgi?article=1222&context=ojhe"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Zhong_et_al_2018_Small.png" alt="Temp"></a></td>
+ 	<td style="width:30%"> Projecting global refortestation potential in collaboration with WWF. (2017)</td>
+	<td style="width:20%"><a href="mtmf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/MTMF_Map_90dpi.png" alt="Temp"></a></td>
+	<td style="width:30%"> Machine learning-based optimization of mixture-tuned matched filtering image classification algorithm. Published in Remote Sensing. (2018)</td>
+  </tr>
  
   <tr>
 	<td style="width:20%"><a href="https://www.biorxiv.org/content/10.1101/210062v2.full.pdf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/WWF_Figure_1.png" alt="Temp"></a></td>
  	<td style="width:30%"> Projecting global refortestation potential in collaboration with WWF. (2017)</td>
-	<td style="width:20%"><a href="mtmf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/MTMF_Map_90dpi.png" alt="Temp"></a></td>
-	<td style="width:30%"> Machine learning-based optimization of mixture-tuned matched filtering image classification algorithm. (2018)</td>
+	<td style="width:20%"><a href="tree_density_poster"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Esri_Map_Book_Vol_32_Cover_Small.png" alt="Temp"></a></td>
+	<td style="width:30%"> Cartographic presentation of spatially-explicit models of global tree density. (2017)</td>
   </tr>
   
   <tr>
@@ -107,15 +113,7 @@ Landscape Restoration Opportunities. Original internal white paper was Glick et 
 
 
 
-    
-
-  
-
-   
-[//]:<td style="width:20%"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/MTMF_Map_90dpi.png" alt="Italian Trulli"  alt="Temp"></td>
-[//]:    <td style="width:30%">Global-scale analysis of tree density.</td>
-
-	
+   	
 [//]: <td style="width:20%"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Color_Mixing_90dpi.png" alt="Italian Trulli"  alt="Temp"></td>
 [//]:    <td style="width:30%">Global-scale analysis of tree density.</td>
 	
@@ -124,30 +122,9 @@ Landscape Restoration Opportunities. Original internal white paper was Glick et 
 	
 
 
-[//]:<td style="width:20%"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/MTMF_Plot.png" alt="Italian Trulli"  alt="Temp"></td>
-[//]:    <td style="width:30%">Global-scale analysis of tree density.</td>
 
 [//]: #<p class="message">
 [//]: #  Global-scale analysis of tree density.
 [//]: #</p>
 
 
-[//]: #In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-[//]: #There are currently two themes built on Poole:
-
-[//]: #* [Hyde](http://hyde.getpoole.com)
-[//]: #* [Lanyon](http://lanyon.getpoole.com)
-
-[//]: #Learn more and contribute on [GitHub](https://github.com/poole).
-
-[//]: # ## Setup
-
-[//]: #Some fun facts about the setup of this project include:
-
-[//]: #* Built for [Jekyll](http://jekyllrb.com)
-[//]: #* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-[//]: #* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-[//]: #* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-[//]: #Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
