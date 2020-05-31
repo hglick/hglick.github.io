@@ -24,7 +24,7 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
 		<td style="width:30%"> Methods paper detailing global models of tree density.</td>
 		<td style="width:20%"><a href="scientific_data"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Scientific_Data_Figure_1.png" alt="Temp"></a></td>
 		<td style="width:30%"> Methods paper detailing global models of tree density.</td>
-	<\tr>
+	</tr>
 
   
   <tr>
@@ -100,8 +100,8 @@ Landscape Restoration Opportunities. Original internal white paper was Glick et 
     
 
   
-  [//]: <td style="width:20%"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/MTMF_Map_90dpi.png" alt="Italian Trulli"  alt="Temp"></td>
-   [//]: <td style="width:30%">Global-scale analysis of tree density.</td>
+ [//]: <td style="width:20%"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/MTMF_Map_90dpi.png" alt="Italian Trulli"  alt="Temp"></td>
+ [//]: <td style="width:30%">Global-scale analysis of tree density.</td>
    
 [//]:<td style="width:20%"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/MTMF_Map_90dpi.png" alt="Italian Trulli"  alt="Temp"></td>
 [//]:    <td style="width:30%">Global-scale analysis of tree density.</td>
