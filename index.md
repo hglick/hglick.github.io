@@ -19,13 +19,23 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
   </tr>
 
 
-	<tr>
-		<td style="width:20%"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/2017JG003906"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Kuhn_et_al_2018_Figure_1.png" alt="Temp"></a></td>
-		<td style="width:30%"> Methods paper detailing global models of tree density.</td>
-		<td style="width:20%"><a href="scientific_data"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Scientific_Data_Figure_1.png" alt="Temp"></a></td>
-		<td style="width:30%"> Methods paper detailing global models of tree density.</td>
-	</tr>
 
+
+
+ 
+  <tr>
+	<td style="width:20%"><a href="https://www.biorxiv.org/content/10.1101/210062v2.full.pdf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/WWF_Figure_1.png" alt="Temp"></a></td>
+ 	<td style="width:30%"> Projecting global refortestation potential in collaboration with WWF. (2017)</td>
+	<td style="width:20%"><a href="mtmf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/MTMF_Map_90dpi.png" alt="Temp"></a></td>
+	<td style="width:30%"> Machine learning-based optimization of mixture-tuned matched filtering image classification algorithm. (2018)</td>
+  </tr>
+  
+  <tr>
+	<td style="width:20%"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/2017JG003906"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Kuhn_et_al_2018_Figure_1.png" alt="Temp"></a></td>
+ 	<td style="width:30%"> Patterns in stream greenhouse gas dynamics from mountains to plains in northcentral Wyoming. (2017)</td>
+	<td style="width:20%"><a href="scientific_data"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Scientific_Data_Figure_1.png" alt="Temp"></a></td>
+	<td style="width:30%"> Methods paper detailing global models of tree density. (2016)</td>
+  </tr>
   
   <tr>
     <td style="width:20%"><a href="esri_map_book_education"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Esri_Map_Book_Vol_31_Cover_Small.png" alt="Temp"></a></td>
@@ -100,8 +110,7 @@ Landscape Restoration Opportunities. Original internal white paper was Glick et 
     
 
   
- [//]: <td style="width:20%"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/MTMF_Map_90dpi.png" alt="Italian Trulli"  alt="Temp"></td>
- [//]: <td style="width:30%">Global-scale analysis of tree density.</td>
+
    
 [//]:<td style="width:20%"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/MTMF_Map_90dpi.png" alt="Italian Trulli"  alt="Temp"></td>
 [//]:    <td style="width:30%">Global-scale analysis of tree density.</td>
