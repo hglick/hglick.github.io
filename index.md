@@ -19,10 +19,20 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
   </tr>
 
 
+
   <tr>
-	<td style="width:20%"><a href="https://www.nature.com/articles/s41586-019-1128-0"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Steidinger_et_al_2019_Cover_Small.png" alt="Temp"></a></td>
+    <td style="width:20%"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Vector_Field_Small.png" alt="Italian Trulli" alt="Temp"></td>
+	<td style="width:30%">Modeling the spatial propagation of a monodominant tree species into species diverse forest. (In progress)</td>
+  </tr>
+	
+
+  <tr>
+    <td style="width:20%"><a href="https://www.nature.com/articles/s41586-019-1128-0"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Steidinger_et_al_2019_Cover_Small.png" alt="Temp"></a></td>
 	<td style="width:30%"> Global-scale analysis of ectomycorrhizal symbiosis with tree species. Published in Nature. (2019)</td>
-</tr>
+	<td style="width:20%"><a href="https://mapgallery.esri.com/map-detail/
+	5b43ab3cf657650a1e2d2183"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Color_Mixing_90dpi.png" alt="Italian Trulli"  alt="Temp"></a></td>
+    <td style="width:30%">Pilot integration of analytical tools based on quantitative color theory, into ArcGIS Pro for cartographic color blending. (2018)</td>
+  </tr>
 
 
 
@@ -118,12 +128,7 @@ Landscape Restoration Opportunities. Original internal white paper was Glick et 
 
 
    	
-[//]: <td style="width:20%"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Color_Mixing_90dpi.png" alt="Italian Trulli"  alt="Temp"></td>
-[//]:    <td style="width:30%">Global-scale analysis of tree density.</td>
-	
-[//]: <td style="width:20%"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Vector_Field.png" alt="Italian Trulli" alt="Temp"></td>
-[//]:    <td style="width:30%">Global-scale analysis of tree density.</td>
-	
+
 
 
 
