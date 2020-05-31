@@ -20,8 +20,8 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
 
 
   <tr>
-	<td style="width:20%"><a href="https://www.nature.com/articles/s41586-019-1128-0"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Steidinger_et_al_2019_small.png" alt="Temp"></a></td>
-	<td></td>
+	<td style="width:20%"><a href="https://www.nature.com/articles/s41586-019-1128-0"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Steidinger_et_al_2019_Cover_Small.png" alt="Temp"></a></td>
+	<td style="width:30%"> Global-scale analysis of ectomycorrhizal symbiosis with tree species. Published in Nature. (2019)</td>
 </tr>
 
 
