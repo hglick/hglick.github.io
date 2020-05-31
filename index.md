@@ -23,7 +23,7 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
   <tr>
     <td style="width:20%"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Vector_Field_Small.png" alt="Italian Trulli" alt="Temp"></td>
 	<td style="width:30%">Modeling the spatial propagation of a monodominant tree species into species diverse forest. (In progress)</td>
-	<td strong style="width:50% font-size: 35px">THIS PAGE IS UNDER CONSTRUCTION</td>
+	<td style="width:50% font-size: 45px"><b>THIS PAGE IS UNDER CONSTRUCTION</b></td>
   </tr>
 	
 
