@@ -18,8 +18,17 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
 	<th style="width:30%"></th>
   </tr>
 
+
+	<tr>
+		<td style="width:20%"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/2017JG003906"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Kuhn_et_al_2018_Figure_1.png" alt="Temp"></a></td>
+		<td style="width:30%"> Methods paper detailing global models of tree density.</td>
+		<td style="width:20%"><a href="scientific_data"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Scientific_Data_Figure_1.png" alt="Temp"></a></td>
+		<td style="width:30%"> Methods paper detailing global models of tree density.</td>
+	<\tr>
+
+  
   <tr>
-    <td style="width:20%"><a href="esri_map_book_education"><img src="https://github.com/hglick/hglick.github.io/blob/master/_images/Small/Esri_Map_Book_Vol_31_Cover_Small.png?raw=true" alt="Temp"></a></td>
+    <td style="width:20%"><a href="esri_map_book_education"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Esri_Map_Book_Vol_31_Cover_Small.png" alt="Temp"></a></td>
 	<td style="width:30%"> A spatial statistical analysis capturing a GIS educator's sphere of influence. Published in volume 31 of the Esri Map Book. (2016)</td>
 	
     <td style="width:20%"><a href="https://science.sciencemag.org/content/354/6309/aaf8957.full.pdf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Liang_Science_Graph_90dpi.png" alt="Temp"></a></td>
@@ -89,9 +98,7 @@ Landscape Restoration Opportunities. Original internal white paper was Glick et 
 
 
     
-[//]:     <td style="width:20%"><a href="scientific_data"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Scientific_Data_Figure_1.png" alt="Temp"></a></td>
-[//]: 	<td style="width:30%"> Methods paper detailing global models of tree density.</td>
-[//]:   </tr>
+
   
   [//]: <td style="width:20%"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/MTMF_Map_90dpi.png" alt="Italian Trulli"  alt="Temp"></td>
    [//]: <td style="width:30%">Global-scale analysis of tree density.</td>
