@@ -19,12 +19,16 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
   </tr>
 
 
+  <tr>
+	<td style="width:20%"><a href="https://www.nature.com/articles/s41586-019-1128-0"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Steidinger_et_al_2019_small.png" alt="Temp"></a></td>
+	<td></td>
+</tr>
 
 
 
   <tr>
 	<td style="width:20%"><a href="https://aquila.usm.edu/cgi/viewcontent.cgi?article=1222&context=ojhe"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Zhong_et_al_2018_Small.png" alt="Temp"></a></td>
- 	<td style="width:30%"> Projecting global refortestation potential in collaboration with WWF. (2017)</td>
+ 	<td style="width:30%"> A qualitative study of medical redisents' understandings of informed consent in the context of their practice. (2019)</td>
 	<td style="width:20%"><a href="mtmf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/MTMF_Map_90dpi.png" alt="Temp"></a></td>
 	<td style="width:30%"> Machine learning-based optimization of mixture-tuned matched filtering image classification algorithm. Published in Remote Sensing. (2018)</td>
   </tr>
