@@ -21,58 +21,67 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
 
 
   <tr>
-    <td style="width:20%"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Vector_Field_Small.png" alt="Italian Trulli" alt="Temp"></td>
-	<td style="width:30%">Modeling the spatial propagation of a monodominant tree species into species diverse forest. (In progress)</td>
+    
+	<td style="width:40% font-size:55px"><b>THIS PAGE IS UNDER CONSTRUCTION</b></td>
+	<td style="width:10%"> </td>
 	<td style="width:40% font-size:55px"><b>THIS PAGE IS UNDER CONSTRUCTION</b></td>
 	<td style="width:10%"> </td>
   </tr>
 	
 
   <tr>
+  <td style="width:20%"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Vector_Field_Small.png" alt="Italian Trulli" alt="Temp"></td>
+	<td style="width:30%">Modeling the spatial propagation of a monodominant tree species into species diverse forest. (In progress)</td>
     <td style="width:20%"><a href="https://www.nature.com/articles/s41586-019-1128-0"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Steidinger_et_al_2019_Cover_Small.png" alt="Temp"></a></td>
 	<td style="width:30%"> Global-scale analysis of ectomycorrhizal symbiosis with tree species. Published in Nature. (2019)</td>
-	<td style="width:20%"><a href="https://mapgallery.esri.com/map-detail/
-	5b43ab3cf657650a1e2d2183"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Color_Mixing_90dpi.png" alt="Italian Trulli"  alt="Temp"></a></td>
-    <td style="width:30%">Pilot integration of analytical tools based on quantitative color theory, into ArcGIS Pro for cartographic color blending. (2018)</td>
+	
   </tr>
 
 
 
   <tr>
+  <td style="width:20%"><a href="https://mapgallery.esri.com/map-detail/
+	5b43ab3cf657650a1e2d2183"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Color_Mixing_90dpi.png" alt="Italian Trulli"  alt="Temp"></a></td>
+    <td style="width:30%">Pilot integration of analytical tools based on quantitative color theory, into ArcGIS Pro for cartographic color blending. (2018)</td>
 	<td style="width:20%"><a href="https://aquila.usm.edu/cgi/viewcontent.cgi?article=1222&context=ojhe"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Zhong_et_al_2018_Small.png" alt="Temp"></a></td>
  	<td style="width:30%"> A qualitative study of medical redisents' understandings of informed consent in the context of their practice. (2019)</td>
-	<td style="width:20%"><a href="mtmf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/MTMF_Map_90dpi.png" alt="Temp"></a></td>
-	<td style="width:30%"> Machine learning-based optimization of mixture-tuned matched filtering image classification algorithm. Published in Remote Sensing. (2018)</td>
+	
   </tr>
  
   <tr>
+	
+	<td style="width:20%"><a href="mtmf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/MTMF_Map_90dpi.png" alt="Temp"></a></td>
+	<td style="width:30%"> Machine learning-based optimization of mixture-tuned matched filtering image classification algorithm. Published in Remote Sensing. (2018)</td>
 	<td style="width:20%"><a href="https://www.biorxiv.org/content/10.1101/210062v2.full.pdf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/WWF_Figure_1.png" alt="Temp"></a></td>
- 	<td style="width:30%"> Projecting global refortestation potential in collaboration with WWF. (2017)</td>
-	<td style="width:20%"><a href="tree_density_poster"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Esri_Map_Book_Vol_32_Cover_Small.png" alt="Temp"></a></td>
-	<td style="width:30%"> Cartographic presentation of spatially-explicit models of global tree density. (2017)</td>
+	<td style="width:30%">Project in partnership with WWF to evaluate potential reforestation based on IUCN/WRI’s Atlas of Forest
+Landscape Restoration Opportunities. Original internal white paper was Glick et al. 2016, Projecting Global Reforestation Potential. (2017)  </td>
+
+	
   </tr>
   
   <tr>
+  <td style="width:20%"><a href="tree_density_poster"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Esri_Map_Book_Vol_32_Cover_Small.png" alt="Temp"></a></td>
+	<td style="width:30%"> Cartographic presentation of spatially-explicit models of global tree density. (2017)</td>
 	<td style="width:20%"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/2017JG003906"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Kuhn_et_al_2018_Figure_1.png" alt="Temp"></a></td>
  	<td style="width:30%"> Patterns in stream greenhouse gas dynamics from mountains to plains in northcentral Wyoming. (2017)</td>
-	<td style="width:20%"><a href="scientific_data"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Scientific_Data_Figure_1.png" alt="Temp"></a></td>
-	<td style="width:30%"> Methods paper detailing global models of tree density. (2016)</td>
+	
   </tr>
   
   <tr>
+  <td style="width:20%"><a href="scientific_data"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Scientific_Data_Figure_1.png" alt="Temp"></a></td>
+	<td style="width:30%"> Methods paper detailing global models of tree density. (2016)</td>
     <td style="width:20%"><a href="esri_map_book_education"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Esri_Map_Book_Vol_31_Cover_Small.png" alt="Temp"></a></td>
 	<td style="width:30%"> A spatial statistical analysis capturing a GIS educator's sphere of influence. Published in volume 31 of the Esri Map Book. (2016)</td>
 	
-    <td style="width:20%"><a href="https://science.sciencemag.org/content/354/6309/aaf8957.full.pdf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Liang_Science_Graph_90dpi.png" alt="Temp"></a></td>
-	<td style="width:30%">Global-scale analysis of forest biodiversity and its relationship with annual productivity. Served as HPC specialist for Global Forest Biodiversity Initiative. Parallel computing on millions of records from >70 countries with custom HPC (AWS EC2 + RStudio Server) (2016)</td>
+    
   </tr>
 
   <tr>
+  <td style="width:20%"><a href="https://science.sciencemag.org/content/354/6309/aaf8957.full.pdf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Liang_Science_Graph_90dpi.png" alt="Temp"></a></td>
+	<td style="width:30%">Global-scale analysis of forest biodiversity and its relationship with annual productivity. Served as HPC specialist for Global Forest Biodiversity Initiative. Parallel computing on millions of records from >70 countries with custom HPC (AWS EC2 + RStudio Server) (2016)</td>
     <td style="width:20%"><a href="https://www.ingentaconnect.com/content/asprs/pers/2016/00000082/00000010/art00016#"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Accuracy_Assessment.png" alt="Temp"></a></td>
     <td style="width:30%">Simulation-based evaluation of the effects of horizontal positional error on map classification accuracy statistics. Published in <i>Photogrammetric Engineering & Remote Sensing</i>. (2016)</td> 
-    <td style="width:20%"><a href="https://www.biorxiv.org/content/10.1101/210062v2.full.pdf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/WWF_Paper_Cover_Small.png" alt="Temp"></a></td>
-	<td style="width:30%">Project in partnership with WWF to evaluate potential reforestation based on IUCN/WRI’s Atlas of Forest
-Landscape Restoration Opportunities. Original internal white paper was Glick et al. 2016, Projecting Global Reforestation Potential. (2017)  </td>
+	
   </tr>    
 
   <tr>
