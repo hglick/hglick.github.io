@@ -244,6 +244,7 @@ table {
   border-collapse: collapse;
   background: #989898;
   font-size: 12px;
+  vertical-align: top;
   /* color: #008066; */
 }
 td,
