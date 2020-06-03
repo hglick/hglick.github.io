@@ -230,7 +230,7 @@ blockquote p:last-child {
 img {
   display: block;
   max-width: 100%;
-  margin: 0rem 8rem 1.2rem 0rem; /* Using 0 0 1rem provided bottom border */
+  margin: 0rem 1.2rem 1.2rem 0rem; /* Using 0 0 1rem provided bottom border */
   border-radius: 5px;
   text-align: right; /* hbg: I think this is how we can get the image to be on the right, which I had previously dont within the table in the index.md file, but apparently that method is deprecated. */
 }
@@ -239,6 +239,7 @@ img {
 table {
 table {
   margin-bottom: 1rem;
+  margin-right: 3rem;
   width: 100%;
   /*border: 1px solid #e5e5e5;*/
   border-collapse: collapse;
