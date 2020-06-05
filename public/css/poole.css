@@ -231,7 +231,7 @@ img {
   display: block;
   max-width: 100%;
   margin: 0rem 1.2rem 1.2rem 0rem; /* Using 0 0 1rem provided bottom border */
-  border-radius: 5px;
+  border-radius: 2px;
   text-align: right; /* hbg: I think this is how we can get the image to be on the right, which I had previously dont within the table in the index.md file, but apparently that method is deprecated. */
 }
 
@@ -255,6 +255,7 @@ th {
   text-align: left;
   vertical-align: top;
   background-color: #989898; 
+  font-size: 10px;
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
