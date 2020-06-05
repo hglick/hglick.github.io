@@ -10,7 +10,7 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
 {:/comment}
 
 
-<table style="width:120%">
+<table style="width:130%">
   <tr>
 	<th style="width:20%"></th>
 	<th style="width:30%"></th>
