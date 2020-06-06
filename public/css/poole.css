@@ -259,7 +259,6 @@ th {
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #989898; /*#f9f9f9 #989898*/
-  font-size: 10px;
 }
 
 
