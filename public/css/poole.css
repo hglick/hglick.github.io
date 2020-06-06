@@ -249,7 +249,8 @@ table {
   /* color: #008066; */
 }
 td,
-th {
+th,
+tr {
   padding: 0.25rem 0rem 0.25rem 0.25rem; /*top, right, bottom ,left, or top and bottom followed by right and left*/
   /*border: 1px solid #e5e5e5; */
   text-align: left;
