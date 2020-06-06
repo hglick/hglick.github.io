@@ -29,7 +29,7 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
   </tr>
 	
 
-  <tr style="font-size:0.8em">
+  <tr style="font-size:0.9em; vertical-align: top">
   <td style="width:20%"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Vector_Field_Small.png" alt="Italian Trulli" alt="Temp"></td>
 	<td style="width:30%">Modeling the spatial propagation of a monodominant tree species into species diverse forest. (In progress)</td>
     <td style="width:20%"><a href="https://www.nature.com/articles/s41586-019-1128-0"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Steidinger_et_al_2019_Cover_Small.png" alt="Temp"></a></td>
