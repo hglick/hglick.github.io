@@ -9,7 +9,7 @@ permalink: accuracy_assessment_poster
 	<th></th>
   </tr>
   <tr>
-    <td><img src="_images/Large/Accuracy_Assessment_Poster_Large.png" width="100%" align="left"></td>
+    <td><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Accuracy_Assessment_Poster_Large.png" width="100%" align="left"></td>
   </tr>
 </table>
   
