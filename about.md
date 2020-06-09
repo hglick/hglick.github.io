@@ -1,12 +1,14 @@
 ---
 layout: page
-title: About
+permalink: About
 ---
 
-table style="width:130%"> 
-	<tr style="font-size:0.9em; vertical-align: top; background-color: #989898">
-		<td style="width:100%">I'm a data scientist with a passion for all things geospatial. I bring expert knowledge and the creative application of statistical methods to bear on complex geographic problems. Large-scale analysis, distributed computing, parametric modeling, cartography, and raster-based ecological analysis appear in much of my work. Additional details can be found on <a href="LinkedIn">https://www.linkedin.com/in/henry-glick/<\a>.
-		</td>
-	</tr>
+<table style="width:140%">
+  <tr>
+	<th></th>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Large/Accuracy_Assessment_Poster_Large.png" width="100%" align="left"></td>
+  </tr>
 </table>
-  
+
