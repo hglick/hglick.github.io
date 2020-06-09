@@ -18,17 +18,6 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
 	<th style="width:20%"></th>
 	<th style="width:30%"></th>
   </tr>
-
-
-
-  <tr style="font-size:0.9em; vertical-align: top">
-
-    
-	<td style="width:40% font-size:55px"><b>THIS PAGE IS UNDER CONSTRUCTION</b></td>
-	<td style="width:10%"> </td>
-	<td style="width:40% font-size:55px"><b>THIS PAGE IS UNDER CONSTRUCTION</b></td>
-	<td style="width:10%"> </td>
-  </tr>
 	
 
   <tr style="font-size:0.9em; vertical-align: top">
