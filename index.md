@@ -32,7 +32,7 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
 	
 
   <tr style="font-size:0.9em; vertical-align: top">
-  <td style="width:20%"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Vector_Field_Small.png" alt="Italian Trulli" alt="Temp"></td>
+  <td style="width:20%"><a href="spatial_translation"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Vector_Field_Small.png" alt="Italian Trulli" alt="Temp"></a></td>
 	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Modeling the spatial propagation of a monodominant tree species into species diverse forest. (In progress)</td>
     <td style="width:20%"><a href="https://www.nature.com/articles/s41586-019-1128-0"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Steidinger_et_al_2019_Cover_Small.png" alt="Temp"></a></td>
 	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Global-scale analysis of ectomycorrhizal symbiosis with tree species. Published in Nature. (2019)</td>
@@ -65,7 +65,7 @@ Landscape Restoration Opportunities. Original internal white paper was Glick et 
   
   <tr style="font-size:0.9em; vertical-align: top">
 
-  <td style="width:20%"><a href="tree_density_poster"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Esri_Map_Book_Vol_32_Cover_Small.png" alt="Temp"></a></td>
+  <td style="width:20%"><a href="esri_map_book_tree_density"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Esri_Map_Book_Vol_32_Cover_Small.png" alt="Temp"></a></td>
 	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Cartographic presentation of spatially-explicit models of global tree density. (2017)</td>
 	<td style="width:20%"><a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/2017JG003906"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Kuhn_et_al_2018_Figure_1.png" alt="Temp"></a></td>
  	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Patterns in stream greenhouse gas dynamics from mountains to plains in northcentral Wyoming. (2017)</td>
