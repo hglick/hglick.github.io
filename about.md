@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: About
+title: About
 ---
 
 <table style="width:140%">
