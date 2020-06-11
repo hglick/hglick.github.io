@@ -34,7 +34,7 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
 
   <td style="width:20%"><a href="https://mapgallery.esri.com/map-detail/
 	5b43ab3cf657650a1e2d2183"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Color_Mixing_90dpi.png" alt="Italian Trulli"  alt="Temp"></a></td>
-    <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Pilot integration, into ArcGIS Pro, of analytical tools based on quantitative color theory. Intended for cartographic color blending and enhanced science communication. <b>2nd prize at Esri User Conference<\b>. (2018)</td>
+    <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Pilot integration, into ArcGIS Pro, of analytical tools based on quantitative color theory. Intended for cartographic color blending and enhanced science communication. 2nd prize at <b>Esri User Conference</b>. (2018)</td>
 	<td style="width:20%"><a href="https://aquila.usm.edu/cgi/viewcontent.cgi?article=1222&context=ojhe"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Zhong_et_al_2018_Small.png" alt="Temp"></a></td>
  	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> A qualitative study of medical residents' understandings of informed consent in the context of their practice. Published in the <b>Online Journal of Health Ethics</b>. (2019)</td>
 	
@@ -46,8 +46,8 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
 	<td style="width:20%"><a href="mtmf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/MTMF_Map_90dpi.png" alt="Temp"></a></td>
 	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Machine learning-based optimization of mixture-tuned matched filtering image classification algorithm. Published in <b>Remote Sensing</b>. (2018)</td>
 	<td style="width:20%"><a href="https://www.biorxiv.org/content/10.1101/210062v2.full.pdf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/WWF_Figure_1.png" alt="Temp"></a></td>
-	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Project in partnership with WWF to evaluate potential reforestation based on IUCN/WRI’s Atlas of Forest
-Landscape Restoration Opportunities. Original internal white paper was Glick et al. 2016, Projecting Global Reforestation Potential. (2017)  </td>
+	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">With WFF, evaluation of potential reforestation based on IUCN/WRI’s Atlas of Forest
+Landscape Restoration Opportunities. Original internal white paper was Glick et al. 2016, Projecting Global Reforestation Potential. <b>Preprint on BioRxiv</b> (2017)  </td>
 
 	
   </tr>
@@ -64,7 +64,7 @@ Landscape Restoration Opportunities. Original internal white paper was Glick et 
   <tr style="font-size:0.9em; vertical-align: top">
 
   <td style="width:20%"><a href="scientific_data"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Scientific_Data_Figure_1.png" alt="Temp"></a></td>
-	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Methods paper detailing global models of tree density. Published in <b>Scientific Data</b>. (2016)</td>
+	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Methods paper presenting data derivatives and detailing global-scale analysis of tree density. Published in <b>Scientific Data</b>. (2016)</td>
     <td style="width:20%"><a href="esri_map_book_education"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Esri_Map_Book_Vol_31_Cover_Small.png" alt="Temp"></a></td>
 	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> A spatial statistical analysis capturing a GIS educator's sphere of influence. Published in volume 31 of the <b>Esri Map Book</b>. (2016)</td>
 	
@@ -85,31 +85,31 @@ Landscape Restoration Opportunities. Original internal white paper was Glick et 
     <td style="width:20%"><a href="nature_article"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Nature_Cover_Small.png" alt="Temp"></a></td>
     <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Global-scale analysis of tree density. 429,775 field plots, 14,000+ statistical models, 60+ international collaborators. Published in <b>Nature</b>. (2015)</td>
 	<td style="width:20%"><a href="esri_map_book_demographics"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Esri_Map_Book_Vol_30_Cover_Small.png" alt="Temp"></a></td>
-	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Cartographic representations of regression modeling results, published in volume 30 of the <b>Esri Map Book</b>. (2015)</td>
+	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Cartographic representations of results from regression modeling of demographic trends among Wyoming's agriculturalists. Published in volume 30 of the <b>Esri Map Book</b>. (2015)</td>
   </tr>
 
   <tr style="font-size:0.9em; vertical-align: top">
 
   <td style="width:20%"><a href="https://theconversation.com/how-we-found-out-there-are-three-trillion-trees-on-earth-47071"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/The_Conversation_Cover_Page_Small.png" alt="Temp"></a></td>
-	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> A popular press piece on how we estimated tree density globally. (2015)</td>
+	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> A popular press piece on how my collaborators and I developed the first statistically robust estimates for tree density globally. Published in <b>The Conversation</b>. (2015)</td>
 	<td style="width:20%"><a href="https://issuu.com/uhpsi/docs/swat_report_for_issuu"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Clear_Creek_Hydrology_Small.png" alt="Temp"></a></td>
-	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Collaborative analysis of the Clear Creek watershed in Wyoming, based on the Soil and Water Assessment Tool. (2015)</td>
+	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Collaborative analysis of the Clear Creek watershed in Wyoming, based on the Soil and Water Assessment Tool. Published by the <b>Ucross High Plains Stewardship Initiative</b>. (2015)</td>
   </tr>
   
   <tr style="font-size:0.9em; vertical-align: top">
 
   <td style="width:20%"><a href="optimizing_infrastructure"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Optimizing_Infrastructure_Poster_Small.png" alt="Temp"></a></td>
-	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Conference poster detailing an optimization analysis of cattle paddocks on a Wyoming ranch. (2015)</td>
+	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Conference poster detailing an optimization analysis of cattle paddocks on a Wyoming ranch. Appeared at the <b>Esri User's Conference</b>. (2015)</td>
 	<td style="width:20%"><a href="accuracy_assessment_poster"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Accuracy_Assessment_Poster_Small.png" alt="Temp"></a></td>
-	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Conference poster detailing a study in which I quantified the effects of horizontal positional error on high-resolution maps with hard classifications. (2015)</td>
+	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Conference poster detailing a study in which I quantified the effects of horizontal positional error on high-resolution maps with hard classifications. Appeared at the <b>Association of American Geographers Annual Meeting</b> (2015)</td>
   </tr>
   
   <tr style="font-size:0.9em; vertical-align: top">
 
 	<td style="width:20%"><a href="rangeland_demographics"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Rangelands_Graphic_Small.png" alt="Temp"></a></td>
-    <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Peer-reviewed publication on Wyoming's aging agricultural landscape. Published in <b>Rangelands</b> 36(6). (2014)</td>
+    <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Socio-demographic analysis of Wyoming's aging agricultural landscape, looking at trends through agricultural census data. Published in <b>Rangelands</b> 36(6). (2014)</td>
 	<td style="width:20%"><a href="demographics_booklet"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Demographic_Booklet_Cover_Small.png" alt="Temp"></a></td>
-    <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">A study evaluating the changing demographics among Wyoming's agricultural producers. Booklet based off posters, published by the Ucross High Plains Stewardship Initiative. (2014)</td>
+    <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">A study evaluating the changing demographics among Wyoming's agricultural producers. Booklet based off posters. Published by the <b>Ucross High Plains Stewardship Initiative</b>. (2014)</td>
   </tr>
   
   <tr style="font-size:0.9em; vertical-align: top">
