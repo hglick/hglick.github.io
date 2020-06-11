@@ -24,7 +24,7 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
   <td style="width:20%"><a href="spatial_translation"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Vector_Field_Small.png" alt="Italian Trulli" alt="Temp"></a></td>
 	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Modeling the spatial propagation of a monodominant tree species into species diverse forest. (In progress)</td>
     <td style="width:20%"><a href="https://www.nature.com/articles/s41586-019-1128-0"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Steidinger_et_al_2019_Cover_Small.png" alt="Temp"></a></td>
-	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Global-scale analysis of ectomycorrhizal symbiosis with tree species. Published in <b>Nature</b>. (2019)</td>
+	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Global-scale analysis of ectomycorrhizal symbioses with tree species. Published in <b>Nature</b>. (2019)</td>
 	
   </tr>
 
@@ -34,9 +34,9 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
 
   <td style="width:20%"><a href="https://mapgallery.esri.com/map-detail/
 	5b43ab3cf657650a1e2d2183"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Color_Mixing_90dpi.png" alt="Italian Trulli"  alt="Temp"></a></td>
-    <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Pilot integration of analytical tools based on quantitative color theory, into ArcGIS Pro for cartographic color blending. (2018)</td>
+    <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Pilot integration, into ArcGIS Pro, of analytical tools based on quantitative color theory. Intended for cartographic color blending and enhanced science communication. <b>2nd prize at Esri User Conference<\b>. (2018)</td>
 	<td style="width:20%"><a href="https://aquila.usm.edu/cgi/viewcontent.cgi?article=1222&context=ojhe"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Zhong_et_al_2018_Small.png" alt="Temp"></a></td>
- 	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> A qualitative study of medical redisents' understandings of informed consent in the context of their practice. Published in the <b>Online Journal of Health Ethics</b>. (2019)</td>
+ 	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> A qualitative study of medical residents' understandings of informed consent in the context of their practice. Published in the <b>Online Journal of Health Ethics</b>. (2019)</td>
 	
   </tr>
  
