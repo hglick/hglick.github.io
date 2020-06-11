@@ -4,7 +4,7 @@ exclude:   true
 permalink: change_vector_analysis
 ---
 
-<table style="width:140%">
+<table style="width:110%">
   <tr>
 	<th></th>
   </tr>

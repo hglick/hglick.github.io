@@ -4,7 +4,7 @@ exclude:   true
 permalink: spectral_angle_mapping
 ---
 
-<table style="width:140%">
+<table style="width:110%">
   <tr>
 	<th></th>
   </tr>
