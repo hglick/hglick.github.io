@@ -22,7 +22,7 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
 
   <tr style="font-size:0.9em; vertical-align: top">
   <td style="width:20%"><a href="spatial_translation"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Vector_Field_Small.png" alt="Italian Trulli" alt="Temp"></a></td>
-	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Modeling the spatial propagation of a monodominant tree species into species diverse forest. (In progress)</td>
+	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Modeling the spatial propagation of a monodominant tree species into species diverse forest using assorted methods, old and new. (In progress)</td>
     <td style="width:20%"><a href="https://www.nature.com/articles/s41586-019-1128-0"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Steidinger_et_al_2019_Cover_Small.png" alt="Temp"></a></td>
 	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Global-scale analysis of ectomycorrhizal symbioses with tree species. Published in <b>Nature</b>. (2019)</td>
 	
@@ -43,7 +43,7 @@ https://stackoverflow.com/questions/25789087/hide-a-page-in-jekyll-website-serve
   <tr style="font-size:0.9em; vertical-align: top">
 
 	
-	<td style="width:20%"><a href="mtmf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/MTMF_Map_90dpi.png" alt="Temp"></a></td>
+	<td style="width:20%"><a href="mtmf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/MTMF_Figure_4.png" alt="Temp"></a></td>
 	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Machine learning-based optimization of mixture-tuned matched filtering image classification algorithm. Published in <b>Remote Sensing</b>. (2018)</td>
 	<td style="width:20%"><a href="https://www.biorxiv.org/content/10.1101/210062v2.full.pdf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/WWF_Figure_1.png" alt="Temp"></a></td>
 	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">With WFF, evaluation of potential reforestation based on IUCN/WRI’s Atlas of Forest
@@ -71,57 +71,57 @@ Landscape Restoration Opportunities. Original internal white paper was Glick et 
     
   </tr>
 
-  <tr style="font-size:0.9em; vertical-align: top">
-
-  <td style="width:20%"><a href="https://science.sciencemag.org/content/354/6309/aaf8957.full.pdf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Liang_Science_Graph_90dpi.png" alt="Temp"></a></td>
+  <tr style="font-size:0.9em; vertical-align: top">	
+	<td style="width:20%"><a href="https://science.sciencemag.org/content/354/6309/aaf8957.full.pdf"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Liang_Science_Graph_90dpi.png" alt="Temp"></a></td>
 	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Global-scale analysis of forest biodiversity and its relationship with annual productivity. Published in <b>Science</b>. (2016)</td>
-    <td style="width:20%"><a href="https://www.ingentaconnect.com/content/asprs/pers/2016/00000082/00000010/art00016#"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Accuracy_Assessment.png" alt="Temp"></a></td>
-    <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Simulation-based evaluation of the effects of horizontal positional error on map classification accuracy statistics. Published in <b>Photogrammetric Engineering & Remote Sensing</b>. (2016)</td> 
+	<td style="width:20%"><a href="spectral_angle_mapping"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/SAM_Graphic.png" alt="Temp"></a></td>
+    <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">JavaScript-based analytical routines to perform Spectral Angle Mapping and Mixture Tuned Matched Filtering, built in Google Earth Engine. @Devin Routh. Funded by <b>Google Earth Engine Research Award</b>. (2016)</td>
+  </tr>
 	
+	
+  <tr style="font-size:0.9em; vertical-align: top">	
+	<td style="width:20%"><a href="https://www.ingentaconnect.com/content/asprs/pers/2016/00000082/00000010/art00016#"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Accuracy_Assessment.png" alt="Temp"></a></td>
+    <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Simulation-based evaluation of the effects of horizontal positional error on map classification accuracy statistics. Published in <b>Photogrammetric Engineering & Remote Sensing</b>. (2016)</td> 
+	<td style="width:20%"><a href="nature_article"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Nature_Cover_Small.png" alt="Temp"></a></td>
+    <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Global-scale analysis of tree density. 429,775 field plots, 14,000+ statistical models, 60+ international collaborators. Published in <b>Nature</b>. (2015)</td>
   </tr>    
 
   <tr style="font-size:0.9em; vertical-align: top">
-
-    <td style="width:20%"><a href="nature_article"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Nature_Cover_Small.png" alt="Temp"></a></td>
-    <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Global-scale analysis of tree density. 429,775 field plots, 14,000+ statistical models, 60+ international collaborators. Published in <b>Nature</b>. (2015)</td>
 	<td style="width:20%"><a href="esri_map_book_demographics"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Esri_Map_Book_Vol_30_Cover_Small.png" alt="Temp"></a></td>
 	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Cartographic representations of results from regression modeling of demographic trends among Wyoming's agriculturalists. Published in volume 30 of the <b>Esri Map Book</b>. (2015)</td>
+	<td style="width:20%"><a href="https://theconversation.com/how-we-found-out-there-are-three-trillion-trees-on-earth-47071"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/The_Conversation_Cover_Page_Small.png" alt="Temp"></a></td>
+	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> A popular press piece on how my collaborators and I developed the first statistically robust estimates for tree density globally. Published in <b>The Conversation</b>. (2015)</td>
   </tr>
 
   <tr style="font-size:0.9em; vertical-align: top">
-
-  <td style="width:20%"><a href="https://theconversation.com/how-we-found-out-there-are-three-trillion-trees-on-earth-47071"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/The_Conversation_Cover_Page_Small.png" alt="Temp"></a></td>
-	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> A popular press piece on how my collaborators and I developed the first statistically robust estimates for tree density globally. Published in <b>The Conversation</b>. (2015)</td>
 	<td style="width:20%"><a href="https://issuu.com/uhpsi/docs/swat_report_for_issuu"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Clear_Creek_Hydrology_Small.png" alt="Temp"></a></td>
 	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Collaborative analysis of the Clear Creek watershed in Wyoming, based on the Soil and Water Assessment Tool. Published by the <b>Ucross High Plains Stewardship Initiative</b>. (2015)</td>
+	<td style="width:20%"><a href="optimizing_infrastructure"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Optimizing_Infrastructure_Poster_Small.png" alt="Temp"></a></td>
+	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Conference poster detailing an optimization analysis of cattle paddocks on a Wyoming ranch. Appeared at the <b>Esri User's Conference</b>. (2015)</td>
   </tr>
   
   <tr style="font-size:0.9em; vertical-align: top">
-
-  <td style="width:20%"><a href="optimizing_infrastructure"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Optimizing_Infrastructure_Poster_Small.png" alt="Temp"></a></td>
-	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Conference poster detailing an optimization analysis of cattle paddocks on a Wyoming ranch. Appeared at the <b>Esri User's Conference</b>. (2015)</td>
 	<td style="width:20%"><a href="accuracy_assessment_poster"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Accuracy_Assessment_Poster_Small.png" alt="Temp"></a></td>
 	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Conference poster detailing a study in which I quantified the effects of horizontal positional error on high-resolution maps with hard classifications. Appeared at the <b>Association of American Geographers Annual Meeting</b> (2015)</td>
-  </tr>
-  
-  <tr style="font-size:0.9em; vertical-align: top">
-
 	<td style="width:20%"><a href="rangeland_demographics"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Rangelands_Graphic_Small.png" alt="Temp"></a></td>
     <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Socio-demographic analysis of Wyoming's aging agricultural landscape, looking at trends through agricultural census data. Published in <b>Rangelands</b> 36(6). (2014)</td>
+  </tr>
+  
+  <tr style="font-size:0.9em; vertical-align: top">
 	<td style="width:20%"><a href="demographics_booklet"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Demographic_Booklet_Cover_Small.png" alt="Temp"></a></td>
     <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">A study evaluating the changing demographics among Wyoming's agricultural producers. Booklet based off posters. Published by the <b>Ucross High Plains Stewardship Initiative</b>. (2014)</td>
+	<td style="width:20%"><a href="ucross_landcover"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Ucross_Travel_Routes_Small.png" alt="Temp"></a></td>
+    <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Quantifying the financial benefits of high-resolution satellite image-based landcover analysis. Inquire for unpublished manuscript. (2014)</td>
   </tr>
   
   <tr style="font-size:0.9em; vertical-align: top">
-
-    <td style="width:20%"><a href="ucross_landcover"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Ucross_Travel_Routes_Small.png" alt="Temp"></a></td>
-    <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Quantifying the financial benefits of high-resolution satellite image-based landcover analysis. Inquire for unpublished manuscript. (2014)</td>
 	<td style="width:20%"><a href="ucross_map"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Ucross_Fencelines_Small.png"  alt="Temp"></a></td>
 	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> A collaborative effort to collective field data and map infrastructure across the 20,000 acre Ucross Ranch. Published in <b> Resilience </b> 40:3. (2014)</td>
+	<td style="width:20%"><a href="change_vector_analysis"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/CVA_Graphic.png"  alt="Temp"></a></td>
+	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> JavaScript-based analytical routines to perform Change Vetor Analysis, built in Google Earth Engine. @Devin Routh. Funded by <b>Google Earth Engine Research Award</b>. (2014)</td>
   </tr>
   
   <tr style="font-size:0.9em; vertical-align: top">
-
 	<td style="width:20%"><a href="cougar_modeling"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Cougar_Track_Plate_Small.png"  alt="Temp"></a></td>
 	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Habitat suitability models for <i>Puma concolor </i> (aka cougar, mountain lion) using model replication and ensemble modeling. Published in <b>Ecological Modelling</b>. (2013)</td>
 	<td style="width:20%"><a href="https://www.albany.edu/northeast_anthropology/abstracts/issue79-80.htm"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Northeast_Anthropology_Cover_Small.png" alt="Temp"></a></td>
