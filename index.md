@@ -117,23 +117,23 @@ Landscape Restoration Opportunities. Original internal white paper was Glick et 
     <td style="width:20%"><a href="ucross_landcover"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Ucross_Travel_Routes_Small.png" alt="Temp"></a></td>
     <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Quantifying the financial benefits of high-resolution satellite image-based landcover analysis. Inquire for unpublished manuscript. (2014)</td>
 	<td style="width:20%"><a href="ucross_map"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Ucross_Fencelines_Small.png"  alt="Temp"></a></td>
-	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> A collaborative effort to collective field data and map infrastructure across the 20,000 acre Ucross Ranch. Appeared in <b> Resilience </b> 40:3. (2014)</td>
+	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> A collaborative effort to collective field data and map infrastructure across the 20,000 acre Ucross Ranch. Published in <b> Resilience </b> 40:3. (2014)</td>
   </tr>
   
   <tr style="font-size:0.9em; vertical-align: top">
 
 	<td style="width:20%"><a href="cougar_modeling"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Cougar_Track_Plate_Small.png"  alt="Temp"></a></td>
-	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Habitat suitability models for <i>Puma concolor </i>, or cougar. A replication of numerous models, combined in an ensemble model. Published in <b>Ecological Modelling</b>. (2013)</td>
-	<td style="width:20%"><a href="cougar_poster"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Cougar_Poster_Small.png"  alt="Temp"></a></td>
-	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Habitat suitability models for <i>Puma concolor </i>, or cougar. A replication of numerous models, combined in an ensemble model. Conference poster. (2013)</td>
+	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Habitat suitability models for <i>Puma concolor </i> (aka cougar, mountain lion) using model replication and ensemble modeling. Published in <b>Ecological Modelling</b>. (2013)</td>
+	<td style="width:20%"><a href="https://www.albany.edu/northeast_anthropology/abstracts/issue79-80.htm"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Northeast_Anthropology_Cover_Small.png" alt="Temp"></a></td>
+    <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> An evaluation of pre-Contact period enthnohistoric accounts of traditional indigenous building technology in the Algonquian tradition. Published in <b>Northeast Anthropology</b>.(2013)</td>
   </tr>
   
   <tr style="font-size:0.9em; vertical-align: top">
-
-	<td style="width:20%"><a href="https://www.albany.edu/northeast_anthropology/abstracts/issue79-80.htm"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Northeast_Anthropology_Cover_Small.png" alt="Temp"></a></td>
-    <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> An evaluation of pre-Contact period enthnohistoric accounts of traditional indigenous building technology. Published in <b>Northeast Anthropology</b>.(2013)</td>
+	<td style="width:20%"><a href="cougar_poster"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Cougar_Poster_Small.png"  alt="Temp"></a></td>
+	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> A conference poster of habitat suitability models for <i>Puma concolor </i> (aka cougar, mountain lion) using model replication and ensemble modeling. Appeared at <b>The Wildlife Society Annual Conference</b>. (2012)</td>
+	
 	<td style="width:20%"><a href="bulletin_of_primitive_technology"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Glick_2008_Cover_Small.png" alt="Temp"></a></td>
-    <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Review of a new journal focused on experimental archaeology, with a critical evaluation of its role in the maturation of the field. Published in the <b>Bulletin of Primitive Technology</b>. (2008)</td>
+    <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> A review of a new journal focused on experimental archaeology, with a critical evaluation of its role in the maturation of the field. Published in the <b>Bulletin of Primitive Technology</b>. (2008)</td>
   </tr>
   
 </table>
