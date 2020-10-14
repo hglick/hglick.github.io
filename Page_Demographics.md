@@ -10,7 +10,7 @@ permalink: demographics_booklet
   </tr>
   
   <tr>
-	<td><object data="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/PDF/Single_Page_Demographics_Booklet.pdf" width="100%" height="400%" type='application/pdf'/><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Large/Demographics_Booklet_Cover.png" width="100%" align="left"></object></td>
+	<td><object data="https://nbviewer.jupyter.org/github/hglick/hglick.github.io/blob/master/_images/PDF/Single_Page_Demographics_Booklet.pdf" width="100%" height="400%" type='application/pdf'/><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Large/Demographics_Booklet_Cover.png" width="100%" align="left"></object></td>
   </tr>
  </table>
 
