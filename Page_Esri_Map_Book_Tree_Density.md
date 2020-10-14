@@ -1,7 +1,7 @@
 ---
 layout:    page
 exclude:   true
-permalink: esri_map_tree_density
+permalink: esri_map_book_tree_density
 ---
 
 <table style="width:120%">
