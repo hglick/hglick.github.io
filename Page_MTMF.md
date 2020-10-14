@@ -10,7 +10,7 @@ permalink: mtmf
   </tr>
   <tr>
   
-    <td style="width:80%"><a href="https://www.mdpi.com/2072-4292/10/11/1675/xml"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Large/Routh_et_al_2018.png" alt="Temp"></a></td>
+    <td style="width:50%"><a href="https://www.mdpi.com/2072-4292/10/11/1675/xml"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Large/Routh_et_al_2018.png" alt="Temp"></a></td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Large/MTMF_Figure_3.png" width="50%" align="left"></td>
