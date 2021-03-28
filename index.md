@@ -33,7 +33,7 @@ Old esri color mixing link: https://mapgallery.esri.com/map-detail/5b43ab3cf6576
 
   <tr style="font-size:0.9em; vertical-align: top">
 
-  <td style="width:20%"><a href="colorMixing><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Color_Mixing_90dpi.png" alt="Italian Trulli"  alt="Temp"></a></td>
+  <td style="width:20%"><a href="colorMixing"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Color_Mixing_90dpi.png" alt="Italian Trulli"  alt="Temp"></a></td>
     <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Pilot integration, into ArcGIS Pro, of analytical tools based on quantitative color theory. Intended for cartographic color blending and enhanced science communication. 2nd prize at <b>Esri User Conference</b>. (2018)</td>
 	
 	<td style="width:20%"><a href="https://aquila.usm.edu/cgi/viewcontent.cgi?article=1222&context=ojhe"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Zhong_et_al_2018_Small.png" alt="Temp"></a></td>
