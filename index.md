@@ -21,7 +21,7 @@ Old esri color mixing link: https://mapgallery.esri.com/map-detail/5b43ab3cf6576
   </tr>
 
   <tr style="font-size:0.9em; vertical-align: top">
-  <td style="width:20%"><a href="longitudinal_dynamics"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Ituri_Change_Small.png" alt="Italian Trulli" alt="Temp"></a></td>
+  <td style="width:20%"><a href="https://www.mdpi.com/1999-4907/12/6/738"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Ituri_Change_Small.png" alt="Italian Trulli" alt="Temp"></a></td>
   <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Longitudinal modeling (mixed models, beta regression) of forest dynamics in the DRC from repeated census data. Published in <b>Forests</b>. (2021)</td>
   </tr>
 	
