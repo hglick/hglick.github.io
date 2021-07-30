@@ -19,6 +19,13 @@ Old esri color mixing link: https://mapgallery.esri.com/map-detail/5b43ab3cf6576
 	<th style="width:20%"></th>
 	<th style="width:30%"></th>
   </tr>
+
+  <tr style="font-size:0.9em; vertical-align: top">
+  <td style="width:20%"><a href="longitudinal_dynamics"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Ituri_Change_Small.png" alt="Italian Trulli" alt="Temp"></a></td>
+  </tr>
+	
+	
+	
 	
 
   <tr style="font-size:0.9em; vertical-align: top">
