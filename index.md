@@ -20,22 +20,23 @@ Old esri color mixing link: https://mapgallery.esri.com/map-detail/5b43ab3cf6576
 	<th style="width:30%"></th>
   </tr>
 
+
+  <tr style="font-size:0.9em; vertical-align: top">
+  <td style="width:20%"><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275519"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Vector_Field_Small_Published.png" alt="Italian Trulli" alt="Temp"></a></td>
+	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Modeling the spatial propagation of a monodominant tree species into species diverse forest using assorted methods, old and new. Published in <b>PLOS One</b>. (2023)</td>
+  </tr>
+  
+  
+
   <tr style="font-size:0.9em; vertical-align: top">
   <td style="width:20%"><a href="https://www.mdpi.com/1999-4907/12/6/738"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Ituri_Change_Small.png" alt="Italian Trulli" alt="Temp"></a></td>
   <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Longitudinal modeling (mixed models, beta regression) of forest dynamics in the DRC from repeated census data. Published in <b>Forests</b>. (2021)</td>
+  <td style="width:20%"><a href="https://www.nature.com/articles/s41586-019-1128-0"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Steidinger_et_al_2019_Cover_Small.png" alt="Temp"></a></td>
+  <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Global-scale analysis of ectomycorrhizal symbioses with tree species. Published in <b>Nature</b>. (2019)</td>
   </tr>
 	
 	
 	
-	
-
-  <tr style="font-size:0.9em; vertical-align: top">
-  <td style="width:20%"><a href="spatial_translation"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Vector_Field_Small.png" alt="Italian Trulli" alt="Temp"></a></td>
-	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Modeling the spatial propagation of a monodominant tree species into species diverse forest using assorted methods, old and new. (In progress)</td>
-    <td style="width:20%"><a href="https://www.nature.com/articles/s41586-019-1128-0"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Steidinger_et_al_2019_Cover_Small.png" alt="Temp"></a></td>
-	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;"> Global-scale analysis of ectomycorrhizal symbioses with tree species. Published in <b>Nature</b>. (2019)</td>
-	
-  </tr>
 
 
 
