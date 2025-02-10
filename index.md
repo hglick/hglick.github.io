@@ -22,14 +22,16 @@ Old esri color mixing link: https://mapgallery.esri.com/map-detail/5b43ab3cf6576
 
 
   <tr style="font-size:0.9em; vertical-align: top">
-  <td style="width:20%"><a href="https://doi.org/10.1101/2024.05.01.589041"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Glick_et_al_2024_90dpi.png" alt="Italian Trulli" alt="Temp"></a></td>
-	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Model-based prediction and ascription of deforestation risk within commodity sourcing domains: Improving traceability in the palm oil supply chain. Pre-printin <b>bioRxiv</b>. (2024)</td>
+  <td style="width:20%"><a href="https://doi.org/10.48550/arXiv.2405.09530"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Clinton_et_al_2024_90dpi.png" alt="Italian Trulli" alt="Temp"></a></td>
+  <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">A community palm model. Pre-print <b>arXiv</b>. (2024)</td>
   </tr>
 
 
   <tr style="font-size:0.9em; vertical-align: top">
+  <td style="width:20%"><a href="https://doi.org/10.1101/2024.05.01.589041"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Glick_et_al_2024_90dpi.png" alt="Italian Trulli" alt="Temp"></a></td>
+  <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Model-based prediction and ascription of deforestation risk within commodity sourcing domains: Improving traceability in the palm oil supply chain. Pre-print <b>bioRxiv</b>. (2024)</td>
   <td style="width:20%"><a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275519"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Vector_Field_Small_Published.png" alt="Italian Trulli" alt="Temp"></a></td>
-	<td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Modeling the spatial propagation of a monodominant tree species into species diverse forest using assorted methods, old and new. Published in <b>PLOS One</b>. (2023)</td>
+  <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">Modeling the spatial propagation of a monodominant tree species into species diverse forest using assorted methods, old and new. Published in <b>PLOS One</b>. (2023)</td>
   </tr>
   
   
