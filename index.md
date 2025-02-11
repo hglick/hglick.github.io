@@ -23,7 +23,7 @@ Old esri color mixing link: https://mapgallery.esri.com/map-detail/5b43ab3cf6576
 
   <tr style="font-size:0.9em; vertical-align: top">
   <td style="width:20%"><a href="https://doi.org/10.48550/arXiv.2405.09530"><img src="https://raw.githubusercontent.com/hglick/hglick.github.io/master/_images/Small/Clinton_et_al_2024_90dpi.png" alt="Italian Trulli" alt="Temp"></a></td>
-  <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">High resolution predictions of oil palm plantings, with iterative enhancement through community participation. Pre-print published in <b>arXiv</b>. (2024)</td>
+  <td style="width:30%; padding-left:0.9rem; padding-right:0.9rem;">High resolution predictions of oil palm plantations, with iterative enhancement through community participation. Pre-print published in <b>arXiv</b>. (2024)</td>
   </tr>
 
 
